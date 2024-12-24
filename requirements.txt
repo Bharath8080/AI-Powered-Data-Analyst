@@ -1,7 +1,13 @@
 streamlit
 pandas
 pandasai==2.0.24
-sounddevice
 langchain
-python-dotenv
 langchain-groq
+sounddevice
+openai
+python-dotenv
+numpy
+duckdb
+matplotlib
+altair
+scipy
