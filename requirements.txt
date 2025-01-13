@@ -11,3 +11,4 @@ duckdb
 matplotlib
 altair
 scipy
+openpyxl
